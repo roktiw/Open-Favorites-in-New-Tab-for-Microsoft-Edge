@@ -3,6 +3,12 @@
 🚀 **Microsoft Edge Favorites in New Tab Page** is a lightweight Microsoft Edge extension that sets the new tab page (`edge://newtab`) to automatically open `edge://favorites/`. This allows instant access to your bookmarks without additional clicks.
 
 ---
+
+## Edge Add-ons
+https://microsoftedge.microsoft.com/addons/detail/edge-favorites-new-tab/hhgogbemjlcmeganeehgnkfhemgmhhga
+
+---
+
 ## 🎯Open favorite in new tab for Microsoft Edge - version 1.1
 Edge Favorites New Tab helps you stay focused and productive by turning your new tab into a launchpad with your favorite sites.
 	•	⭐ Quick access – Open your Favorites every time you open a new tab
